@@ -1,0 +1,7 @@
+https://docs.google.com/document/d/1ITtgKqGUelFivFiDJikz-OBpTLOMSHTN9gsLRCGi0ns/edit?usp=sharing
+
+Besides trying to implement the feature request (having the preview of the songs before making the playlist) I aslo implemented: 
+- pop up alert, before the user saves the playlist
+- render search when user press enter
+
+Note: could you please check with the implementation of "previewing the songs" is working properly? 
