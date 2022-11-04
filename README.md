@@ -4,7 +4,7 @@ Jamming is a React website application for searching, creating and saving new pl
 
 Link to the website - [Click here](https://saatvikrao-jamming.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/88c7111f-d249-454e-8e8e-d42d682e0f1f/deploy-status)](https://app.netlify.com/sites/saatvikrao-jamming/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4207bd4f-0812-4b76-a2d7-db25ea035946/deploy-status)](https://app.netlify.com/sites/saatvikrao-jamming/deploys)
 
 
 ## Overview
