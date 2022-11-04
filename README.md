@@ -23,7 +23,7 @@ Link to the website - [Click here](https://saatvikrao-jamming.netlify.app/)
 * Save Playlist to Account — users can save their custom playlist by clicking a button called SAVE TO SPOTIFY.
 
 
-## Good Features improvements
+## Extra Features 
 
 * Pressing enter triggers a search (done)
 * Include preview samples for each track (done)
